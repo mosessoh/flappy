@@ -279,7 +279,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Game over
     function gameOver() {
         game.isRunning = false;
-        gameMessage.innerHTML = '<p>Game Over</p><p>Press Space to Restart</p><p>Final Score: ' + game.score + '</p>';
+        gameMessage.innerHTML = '<p>Game Over</p><p>Press Space or Tap to Restart</p><p>Final Score: ' + game.score + '</p>';
     }
     
     // Function to handle jump action (used by both keyboard and touch)

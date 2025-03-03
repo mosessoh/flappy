@@ -13,10 +13,12 @@ A simple Flappy Bird clone created with HTML, CSS, and JavaScript, featuring pro
 ## Controls
 
 - **Space Bar**: Make the bird jump/fly upward
+- **Tap Screen**: Make the bird jump/fly upward (on mobile devices)
 
 ## Features
 
 - Simple and responsive gameplay
+- Mobile-friendly with touch support
 - Progressive difficulty that increases as you score
 - Score tracking
 - Game over screen with restart option
